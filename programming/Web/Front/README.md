@@ -1,4 +1,4 @@
-# [Main Menu](../../../README.md) / [Programming](../../README.md) / [Web](../README.md) / Front-end [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# [Main Menu](../../../README.md) / [Programming](../../README.md) / [Web](../README.md) / Front-end
 
 ## Libs / Frameworks
 - [Font Awesome](https://fontawesome.com/)
