@@ -7,5 +7,5 @@
 
 - [3D Modelling](./3D%20Modelling/README.md)
 - [hardware](./hardware/README.md)
-- [programming](./programming/README.md)
+- [programming](./programming/)
 - [resources](./resources/README.md)
