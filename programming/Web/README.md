@@ -2,8 +2,8 @@
 
 ##Folder
 
-- [Back](./Back/README.md)
-- [Front](./Front/README.md)
+- [Back](./Back/)
+- [Front](./Front/)
 
 ##General
 

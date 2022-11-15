@@ -5,7 +5,7 @@
 ##Content
 ---
 
-- [3D Modelling](./3D%20Modelling/README.md)
-- [hardware](./hardware/README.md)
+- [3D Modelling](./3D%20Modelling/)
+- [hardware](./hardware/)
 - [programming](./programming/)
-- [resources](./resources/README.md)
+- [resources](./resources/)
